@@ -1,4 +1,5 @@
 cd ./client/  --> npm install
+
 cd ./smart_contract/ --> npm install
 
 after the installation is completed
